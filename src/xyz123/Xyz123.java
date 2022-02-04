@@ -11,7 +11,8 @@ public class Xyz123 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        // comment1
+        // comment2
     }
 
 }
